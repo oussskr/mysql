@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.agenture_table_div div:first-child {
+    width: 100% !important;
+}
